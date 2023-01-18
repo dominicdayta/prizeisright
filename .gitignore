@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Annoying Apple Shit
+.DS_Store
+/data/.DS_Store
+/notebooks/.DS_Store
